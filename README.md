@@ -14,9 +14,13 @@ Make sure you also clone (or fork) the repository. You'll want to setup your own
 
 This is an open-note test (except AI assistants, you'd be robbing yourself of the chance to learn) to test how you would work being thrown into a new language and learning the basic.
 
-This test also tests your knowledge of using git, since it requires you to clone the repository locally, and then publish your results to your own repository. Remember, it's ok not to know right now, but hopefully you can figure out how to by the end of this test.
-
 This is broken into multiple parts, each one building on the previous. This isn't meant to test the advanced parts of PHP, but to see how quickly someone can pick up basic syntax.
+
+## Taking the test
+
+1. Clone the repository locally
+2. Complete the knowledge test
+3. Publish the changes to your own repository
 
 ## Important Refernces
 
