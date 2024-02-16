@@ -8,7 +8,7 @@ The bare minimum you need is a text editor/IDE (ideally that supports PHP syntax
 
 To install PHP locally, please follow these [instructions](https://www.php.net/manual/en/install.php).
 
-Make sure you also clone (or fork) the repository locally. You'll want to setup your own repository where you can push the results.
+Make sure you also clone (or fork) the repository. You'll want to setup your own repository where you can push the results.
 
 ## About the test
 
